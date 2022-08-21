@@ -1,13 +1,13 @@
 {
-  "name": "corcel/acf",
-  "description": "Advanced Custom Field (ACF) plugin for Corcel",
-  "homepage": "http://github.com/corcel/acf",
+  "name": "odura/corcel-acf",
+  "description": "Advanced Custom Field (ACF) plugin for Corcel forked by Odura",
+  "homepage": "https://github.com/odura/corcel-acf",
   "license": "MIT",
   "authors": [
     {
-      "name": "Junior Grossi",
-      "email": "juniorgro@gmail.com",
-      "homepage": "http://jgrossi.com"
+      "name": "Junior Grossi & odura",
+      "email": "contact@odura.com",
+      "homepage": "https://github.com/odura"
     }
   ],
   "require": {

@@ -1,4 +1,4 @@
-# Corcel ACF Plugin
+# Corcel ACF Plugin forked by Odura
 
 [![Travis](https://travis-ci.org/corcel/acf.svg?branch=master)](https://travis-ci.org/corcel/acf?branch=master)
 [![Packagist](https://img.shields.io/packagist/v/corcel/acf.svg)](https://github.com/corcel/acf/releases)
@@ -21,10 +21,11 @@ For more information about how Corcel works please visit [the repository](http:/
 
 # Version Compatibility
 
- Corcel    | Laravel  | PHP
-:----------|:---------|:----------
- `^4.0`    | 7.x      | `>=7.2`
- `^5.0`    | 8.x      | `>=7.3`
+To keep a compatibility with Laravel 9
+
+ Corcel    | Laravel | PHP
+:----------|:--------|:----------
+ `^6.0`    | 9.x     | `^8.0.2`
 
 # Installation
 

@@ -1,7 +1,7 @@
 {
-  "name": "odura/corcel-acf",
-  "description": "Advanced Custom Field (ACF) plugin for Corcel forked by Odura",
-  "homepage": "https://github.com/odura/corcel-acf",
+  "name": "adhocrat-io/corcel-acf",
+  "description": "Advanced Custom Field (ACF) plugin for Corcel forked by Adhocrat",
+  "homepage": "https://github.com/adhocrat-io/corcel-acf",
   "license": "MIT",
   "authors": [
     {

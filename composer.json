@@ -1,7 +1,7 @@
 {
-  "name": "adhocrat-io/corcel-acf",
+  "name": "Adhocrat-io/corcel-acf",
   "description": "Advanced Custom Field (ACF) plugin for Corcel forked by Adhocrat",
-  "homepage": "https://github.com/adhocrat-io/corcel-acf",
+  "homepage": "https://github.com/Adhocrat-io/corcel-acf",
   "license": "MIT",
   "authors": [
     {
